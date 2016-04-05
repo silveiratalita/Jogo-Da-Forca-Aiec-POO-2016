@@ -45,7 +45,7 @@ public class JogoDaForca {
          *
          */
         /*
-         public static void bemVindo()
+         //public static void bemVindo()
          {
          System.out.println( "Bem vindo ao jogo da forca da AIEC! Somos alunos do segundo semestre de Análise de sistema!" );
         
