@@ -17,7 +17,7 @@ public class PalavraSecreta {
     
     public PalavraSecreta(){
         
-        String [] listapalavras = { "Metalica", "Bruno e Marrone", "Silvester Stalone", "Peixe" };
+        String [] listapalavras = { "metalica", "bruno e Marrone", "silvester stalone", "peixe" };
     
     String [] listadicas = { "banda de metal", "dupla sertaneja", "Os mercenários", "Tem no mar" };
     int gerador;
